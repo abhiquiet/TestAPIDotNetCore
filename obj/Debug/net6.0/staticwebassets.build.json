@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "clAI4IcZ1oCbJtrrxKU83OflJ7Hogxs+HhjhM4fUGp0=",
+  "Source": "TestAPIDotNetCore",
+  "BasePath": "_content/TestAPIDotNetCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
